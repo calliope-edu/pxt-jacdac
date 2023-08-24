@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-led": "github:microsoft/pxt-jacdac/led"
+        "jacdac-led": "github:calliope-edu/pxt-jacdac/led"
     },
     "files": [
         "server.ts"

@@ -7,7 +7,7 @@
         "radio": "*",
         "microphone": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-microbit": "github:microsoft/pxt-jacdac/devices/microbit"
+        "jacdac-microbit": "github:calliope-edu/pxt-jacdac/devices/microbit"
     },
     "files": [
         "main.ts",

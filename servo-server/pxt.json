@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-servo": "github:microsoft/pxt-jacdac/servo"
+        "jacdac-servo": "github:calliope-edu/pxt-jacdac/servo"
     },
     "files": [
         "server.microbit.ts"

@@ -13,7 +13,7 @@
     "dependencies": {
         "core": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-hid-joystick-server": "github:microsoft/pxt-jacdac/hid-joystick-server"
+        "jacdac-hid-joystick-server": "github:calliope-edu/pxt-jacdac/hid-joystick-server"
     },
     "testDependencies": {
         "jacdac-brain-f4": "*"

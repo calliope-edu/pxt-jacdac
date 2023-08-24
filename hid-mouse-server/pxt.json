@@ -6,8 +6,8 @@
         "core": "*",
         "mouse": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-servers": "github:microsoft/pxt-jacdac/servers",
-        "jacdac-hid-mouse": "github:microsoft/pxt-jacdac/hid-mouse"
+        "jacdac-servers": "github:calliope-edu/pxt-jacdac/servers",
+        "jacdac-hid-mouse": "github:calliope-edu/pxt-jacdac/hid-mouse"
     },
     "testFiles": [
         "test.ts"

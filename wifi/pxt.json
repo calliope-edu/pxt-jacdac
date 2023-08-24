@@ -13,6 +13,6 @@
         "core": "*",
         "net": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-tcp": "github:microsoft/pxt-jacdac/tcp"
+        "jacdac-tcp": "github:calliope-edu/pxt-jacdac/tcp"
     }
 }

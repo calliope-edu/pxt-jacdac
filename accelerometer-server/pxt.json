@@ -6,7 +6,7 @@
         "core": "*",
         "accelerometer": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-accelerometer": "github:microsoft/pxt-jacdac/accelerometer"
+        "jacdac-accelerometer": "github:calliope-edu/pxt-jacdac/accelerometer"
     },
     "files": [
         "server.ts"

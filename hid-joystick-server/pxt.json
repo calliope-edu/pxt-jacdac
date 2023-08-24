@@ -6,8 +6,8 @@
         "core": "*",
         "gamepad": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-servers": "github:microsoft/pxt-jacdac/servers",
-        "jacdac-hid-joystick": "github:microsoft/pxt-jacdac/hid-joystick"
+        "jacdac-servers": "github:calliope-edu/pxt-jacdac/servers",
+        "jacdac-hid-joystick": "github:calliope-edu/pxt-jacdac/hid-joystick"
     },
     "files": [
         "server.ts"

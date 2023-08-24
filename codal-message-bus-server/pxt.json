@@ -21,6 +21,6 @@
     "dependencies": {
         "core": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-codal-message-bus": "github:microsoft/pxt-jacdac/codal-message-bus"
+        "jacdac-codal-message-bus": "github:calliope-edu/pxt-jacdac/codal-message-bus"
     }
 }

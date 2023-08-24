@@ -13,7 +13,7 @@
         "core": "*",
         "light": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-hid-keyboard-server": "github:microsoft/pxt-jacdac/hid-keyboard-server"
+        "jacdac-hid-keyboard-server": "github:calliope-edu/pxt-jacdac/hid-keyboard-server"
     },
     "testDependencies": {}
 }

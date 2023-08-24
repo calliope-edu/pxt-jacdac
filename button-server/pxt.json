@@ -6,7 +6,7 @@
         "core": "*",
         "buttons": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-button": "github:microsoft/pxt-jacdac/button"
+        "jacdac-button": "github:calliope-edu/pxt-jacdac/button"
     },
     "files": [
         "server.ts"

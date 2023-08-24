@@ -6,8 +6,8 @@
         "core": "*",
         "keyboard": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-servers": "github:microsoft/pxt-jacdac/servers",
-        "jacdac-hid-keyboard": "github:microsoft/pxt-jacdac/hid-keyboard"
+        "jacdac-servers": "github:calliope-edu/pxt-jacdac/servers",
+        "jacdac-hid-keyboard": "github:calliope-edu/pxt-jacdac/hid-keyboard"
     },
     "files": [
         "server.ts"

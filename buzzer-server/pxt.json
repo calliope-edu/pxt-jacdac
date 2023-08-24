@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-buzzer": "github:microsoft/pxt-jacdac/buzzer"
+        "jacdac-buzzer": "github:calliope-edu/pxt-jacdac/buzzer"
     },
     "files": [
         "server.ts"

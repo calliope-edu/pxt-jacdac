@@ -7,8 +7,8 @@
         "net": "*",
         "azureiot": "*",
         "jacdac": "github:calliope-edu/pxt-jacdac",
-        "jacdac-wifi-server": "github:microsoft/pxt-jacdac/wifi-server",
-        "jacdac-azure-iot-hub-health-server": "github:microsoft/pxt-jacdac/azure-iot-hub-health-server"
+        "jacdac-wifi-server": "github:calliope-edu/pxt-jacdac/wifi-server",
+        "jacdac-azure-iot-hub-health-server": "github:calliope-edu/pxt-jacdac/azure-iot-hub-health-server"
     },
     "files": [
         "twins.ts",
