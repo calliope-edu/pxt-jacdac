@@ -6,7 +6,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
+        "jacdac": "github:calliope-edu/pxt-jacdac",
         "jacdac-microbit": "github:microsoft/pxt-jacdac/devices/microbit"
     },
     "files": [

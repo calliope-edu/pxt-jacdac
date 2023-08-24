@@ -6,7 +6,7 @@
         "jacdac-iot-s2": "*",
         "net": "*",
         "azureiot": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
+        "jacdac": "github:calliope-edu/pxt-jacdac",
         "jacdac-wifi-server": "github:microsoft/pxt-jacdac/wifi-server",
         "jacdac-azure-iot-hub-health-server": "github:microsoft/pxt-jacdac/azure-iot-hub-health-server"
     },

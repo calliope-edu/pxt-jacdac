@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "buttons": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
+        "jacdac": "github:calliope-edu/pxt-jacdac",
         "jacdac-button": "github:microsoft/pxt-jacdac/button"
     },
     "files": [

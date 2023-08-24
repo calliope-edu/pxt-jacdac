@@ -12,7 +12,7 @@
     ],
     "dependencies": {
         "core": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
+        "jacdac": "github:calliope-edu/pxt-jacdac",
         "jacdac-hid-joystick-server": "github:microsoft/pxt-jacdac/hid-joystick-server"
     },
     "testDependencies": {

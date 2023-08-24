@@ -6,7 +6,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
+        "jacdac": "github:calliope-edu/pxt-jacdac",
         "jacdac-accelerometer": "github:microsoft/pxt-jacdac/accelerometer",
         "jacdac-servo": "github:microsoft/pxt-jacdac/servo",
         "jacdac-button": "github:microsoft/pxt-jacdac/button",

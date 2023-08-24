@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "net": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
+        "jacdac": "github:calliope-edu/pxt-jacdac",
         "jacdac-servers": "github:microsoft/pxt-jacdac/servers",
         "jacdac-wifi": "github:microsoft/pxt-jacdac/wifi"
     },

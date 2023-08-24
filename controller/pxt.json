@@ -10,6 +10,6 @@
     ],
     "dependencies": {
         "core": "*",
-        "jacdac": "github:microsoft/pxt-jacdac"
+        "jacdac": "github:calliope-edu/pxt-jacdac"
     }
 }

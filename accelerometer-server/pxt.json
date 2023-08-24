@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "accelerometer": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
+        "jacdac": "github:calliope-edu/pxt-jacdac",
         "jacdac-accelerometer": "github:microsoft/pxt-jacdac/accelerometer"
     },
     "files": [

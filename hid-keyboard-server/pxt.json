@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "keyboard": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
+        "jacdac": "github:calliope-edu/pxt-jacdac",
         "jacdac-servers": "github:microsoft/pxt-jacdac/servers",
         "jacdac-hid-keyboard": "github:microsoft/pxt-jacdac/hid-keyboard"
     },
